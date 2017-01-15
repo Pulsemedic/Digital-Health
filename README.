@@ -1,0 +1,74 @@
+Theory-of-constraints--Digital-Health
+
+## A constraint is anything that prevents the system from achieving its goal. 
+
+‘There are known knowns. There are things we know that we know. There are known unknowns. That is to say, there are things that we now know we don't know. But there are also unknown unknowns.
+
+Donald Rumsfeld, 
+2002 US Secretary of State for Defence
+
+There are many ways that constraints can show up, but a core principle within TOC is that there are not tens or hundreds of constraints. There is at least one but at most only a few in any given system. linear optimization is a method to achieve the best outcome (such as maximum profit or lowest cost in a mathematical model whose requirements are represented by linear relationships. Linear programming is a special case of mathematical programming (mathematical optimization.
+
+Constraints can be internal or external to the system. An internal constraint is in evidence when the market demands more from the system than it can deliver. If this is the case, then the focus of the organisation should be on discovering that constraint and following the five focusing steps to open it up (and potentially remove it). 
+
+An external constraint exists when the system can produce more than the market will bear. If this is the case, then the organisation should focus on mechanisms to create more demand for its products or services.
+
+### Types of (internal) constraints
+
+* Equipment: The way equipment is currently used limits the ability of the system to produce more scalable goods/services.
+
+* People: Lack of skilled people limits the system. Mental models held by people can cause behaviour that becomes a constraint.
+
+* Policy: A written or unwritten policy prevents the system from making more.
+
+The concept of the constraint in Theory of Constraints is analogous to but differs from the constraint that shows up in mathematical optimization. In TOC, the constraint is used as a focusing mechanism for management of the system. In optimization, the constraint is written into the mathematical expressions to limit the scope of the solution (X can be no greater than 5).
+
+### Breaking a constraint
+
+The purpose of the thinking processes is to help answer questions essential to achieving focused improvement:
+
+* What to change?
+* What to change it into?
+* How to cause the change?
+
+Sometimes two other questions are considered as well:
+
+Why Change? 
+
+and:
+
+* How to maintain the process of ongoing improvement (POOGI)?
+
+The primary thinking processes, as codified by Goldratt and others:
+
+Current reality tree (CRT, similar to the current state map used by many organizations) — evaluates the network of cause-effect relations between the undesirable effects (UDE's, also known as gap elements) and helps to pinpoint the root cause(s) of most of the undesirable effects.
+
+* Evaporating Cloud (conflict resolution diagram or CRD) - solves conflicts that usually perpetuate the causes for an undesirable situation.
+
+* Core Conflict Cloud (CCC) - A combination of conflict clouds based several UDE's. Looking for deeper conflicts that create the undesirable effects.
+
+* Future Reality Tree (FRT, similar to a future state map) - Once some actions (injections) are chosen (not necessarily detailed) to solve the root cause(s) uncovered in the CRT and to resolve the conflict in the CRD the FRT shows the future states of the system and helps to identify possible negative outcomes of the changes (Negative Branches) and to prune them before implementing the changes.
+
+* Negative Branch Reservations (NBR) - Identify potential negative ramifications of any action (such as an injection, or a half-baked idea). The goal of the NBR is to understand the causal path between the action and negative ramifications so that the negative effect can be "trimmed."
+
+* Positive Reinforcement Loop (PRL) - Desired effect (DE) presented in FRT amplifies intermediate objective (IO) that is earlier (lower) in the tree. While intermediate objective is strengthened it positively affects this DE. Finding out PRLs makes FRT more sustaining.
+
+* Prerequisite Tree (PRT) - states that all of the intermediate objectives necessary to carry out an action chosen and the obstacles that will be overcome in the process.
+
+* Transition Tree (TT) - describes in great detail the action that will lead to the fulfillment of a plan to implement changes (outlined on a PRT or not).
+
+* Strategy & Tactics (S&T) - the overall project plan and metrics that will lead to a successful implementation and the ongoing loop through POOGI. Goldratt adapted three operating level performance measures—throughput, inventory and operating expense—and adopted three strategic performance measures—net income, return on investment, and cash flow—to maintain the change.
+
+Some observers note that these processes are not fundamentally very different from some other management change models such as PDCA "Plan-Do-Check-Act" (aka "Plan-Do-Study-Act") or "Survey-Assess-Decide-Implement-Evaluate", but the way they can be used is clearer and more straightforward.
+
+Goldratt, Eliyahu M. (1990). What is this thing called Theory of Constraints and how should it be implemented. [Croton-on-Hudson, NY]: North River Press. p. 161
+
+H. William Dettmer. The Logical Thinking Process: A Systems Approach to Complex Problem Solving (2007)
+
+@pulsemedic
+@symbol7th
+https://www.7thsymbol.co/
+www.pulsemedicservices.co.uk
+A Digital Health transformation agile collaboration between, medics and their finger on the pulse, web developers, graphic designers, for a saving of lives.
+
+#Agile, #digitalhealth, #mobilehealth, #digitaltransformation, #communication, #Rate-determiningstep, #cto, #ceo, #cio
